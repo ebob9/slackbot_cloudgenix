@@ -18,7 +18,7 @@ setup(name='slackbot-cloudgenix',
             'slackbot',
             'tabulate',
             'idna',
-            'fuzzywuzzy',
+            'rapidfuzz',
             'pandas'
       ],
       packages=['slackbot_cloudgenix'],

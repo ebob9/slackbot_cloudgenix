@@ -21,7 +21,7 @@ Create a bot, ask it about your network. Details/examples to be added. Ask your 
     * CloudGenix Python SDK >= 5.2.1b1 - <https://github.com/CloudGenix/sdk-python>
     * Tabulate - <https://github.com/astanin/python-tabulate>
     * IDNA - <https://github.com/kjd/idna>
-    * FuzzyWuzzy - <https://github.com/seatgeek/fuzzywuzzy>
+    * RapidFuzz - <https://github.com/rhasspy/rapidfuzz>
     * Pandas - <https://pandas.pydata.org/>
 
 #### License

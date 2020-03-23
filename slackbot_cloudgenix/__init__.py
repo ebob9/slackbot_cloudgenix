@@ -6,7 +6,7 @@ import re
 import inspect
 import random
 
-from fuzzywuzzy import fuzz, process
+from rapidfuzz import fuzz, process
 import cloudgenix
 import cloudgenix_idname
 
